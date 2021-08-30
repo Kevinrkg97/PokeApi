@@ -1,0 +1,20 @@
+.container{
+  width: 95%;
+  margin: auto;
+}
+
+.container h1{
+  text-align: center;
+  padding: 1rem;
+  color: #fff;
+}
+
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+}
+.container .more{
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+}
